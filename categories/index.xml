@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IQRA</title>
+    <link>https://iqra.hanifmu.com/categories/</link>
+    <description>Recent content in Categories on IQRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://iqra.hanifmu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doa</title>
+      <link>https://iqra.hanifmu.com/categories/doa/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqra.hanifmu.com/categories/doa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kajian</title>
+      <link>https://iqra.hanifmu.com/categories/kajian/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqra.hanifmu.com/categories/kajian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buku</title>
+      <link>https://iqra.hanifmu.com/categories/buku/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqra.hanifmu.com/categories/buku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://iqra.hanifmu.com/categories/download/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqra.hanifmu.com/categories/download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rekaman</title>
+      <link>https://iqra.hanifmu.com/categories/rekaman/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqra.hanifmu.com/categories/rekaman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

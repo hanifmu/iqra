@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /cari/
+Disallow: /tags/*
+Disallow: /categories/*
+
+Sitemap: https://iqra.hanifmu.com/sitemap.xml
