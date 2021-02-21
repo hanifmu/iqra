@@ -1,0 +1,16 @@
+{
+    "short_name": "IQRA",
+    "name": "iqra.hanifmu.com",
+    "description": "Situs ini berisi artikel dan rekaman kajian keislaman.",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#f5f5f5",
+    "theme_color": "#2e2e33"
+}
