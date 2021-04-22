@@ -128,21 +128,6 @@
   </url>
   
   <url>
-    <loc>https://iqra.hanifmu.com/posts/jadwal-kajian-masjid-namira-lamongan/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iqra.hanifmu.com/categories/kajian/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iqra.hanifmu.com/tags/masjid-namira/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iqra.hanifmu.com/categories/buku/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
@@ -173,7 +158,17 @@
   </url>
   
   <url>
+    <loc>https://iqra.hanifmu.com/categories/kajian/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iqra.hanifmu.com/posts/kajian/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqra.hanifmu.com/tags/masjid-namira/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
